@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 **About Me**
-- 🎓 2nd Year **B.Tech CSE (AI)** student at **Galgotias University**
+- 🎓 3rd Year **B.Tech CSE (AI)** student at **Galgotias University**
 - 💡 Passionate about **Web Development, AI & Problem-Solving**
 - 🌱 Currently learning: **React, Next.js, Node.js & Data Visualization**
 - 🔭 Working on multiple major projects
