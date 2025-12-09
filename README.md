@@ -37,13 +37,10 @@
 
 ## 📊 **GitHub Statistics**
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aman23-cmd&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats-five.vercel.app?user=aman23-cmd&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only" width="48%">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-stats/master/generated/languages.svg#gh-dark-mode-only" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
