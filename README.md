@@ -35,23 +35,22 @@
 
 ---
 
-## 📊 GitHub Statistics
-
+## 📊 **GitHub Statistics**
 <p align="center">
-  <a href="https://github.com/aman23-cmd">
-    <img src="https://github-readme-stats.vercel.app/api?username=aman23-cmd&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Aman's GitHub stats" width="48%"/>
-  </a>
-  <a href="https://github.com/aman23-cmd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman23-cmd&hide_border=true&theme=tokyonight" width="48%"/>
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aman23-cmd&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats-five.vercel.app?user=aman23-cmd&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/aman23-cmd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&hide_border=true&theme=tokyonight" width="48%"/>
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+---
+
+### 🐍 **Contribution Snake**
+<p align="center">
+  <img src="https://github.com/aman23-cmd/aman23-cmd/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -71,4 +70,3 @@
 
 ## ⭐ Support
 If you like my work, please **star ⭐ my repositories** — it motivates me to build more awesome things!
-
