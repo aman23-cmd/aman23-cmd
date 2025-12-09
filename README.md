@@ -35,15 +35,23 @@
 
 ---
 
-## 📈 **GitHub Stats**
-<div align="center">
-  
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman23-cmd&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&theme=radical)
+## 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aman23-cmd&theme=radical)
-  
-</div>
+<p align="center">
+  <a href="https://github.com/aman23-cmd">
+    <img src="https://github-readme-stats.vercel.app/api?username=aman23-cmd&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Aman's GitHub stats" width="48%"/>
+  </a>
+  <a href="https://github.com/aman23-cmd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman23-cmd&hide_border=true&theme=tokyonight" width="48%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aman23-cmd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&hide_border=true&theme=tokyonight" width="48%"/>
+  </a>
+</p>
+
 
 ---
 
