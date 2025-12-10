@@ -1,66 +1,76 @@
 <img align="right" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="260">
 
-# 👋 Hey, I’m **Aman Kaushal**
-### 🚀 Full-Stack | AI & ML Enthusiast | Open-Source Contributor
+# ✨ Aman Kaushal — Crafting Code, Creating Impact  
+### 🚀 Full-Stack Developer | AI Explorer | Open-Source Contributor
 
 ---
 
-## 🧠 **About Me**
-- 🎓 3rd Year **B.Tech CSE (AI)** student at **Galgotias University**
-- 💡 Passionate about **Web Development, AI & Problem-Solving**
-- 🌱 Currently learning: **React, Next.js, Node.js & Data Visualization**
-- 🔭 Working on multiple major projects
-- 💪 Open-source contributor at **GirlScript Summer of Code Extended**
+## 👨‍💻 Who Am I?
+
+🌟 I don’t just write code — I build experiences, solve problems, and bring ideas to life.  
+Currently in **3rd Year B.Tech CSE (AI)** at **Galgotias University**, exploring **Web Development, AI, and Data Visualization**.
+
+- 🔥 Exploring: **React, Next.js, Node.js, Flask, AI APIs**
+- 🤝 Contributor at **GirlScript Summer of Code Extended**
+- 💼 Building multiple full-stack & AI-driven projects
 - 🎯 Aim: Become a **Full-Stack / AI Engineer**
 
 ---
 
-## 🛠 **Tech Stack**
+## 🧰 Tech Stack
+
 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React  
 **Backend:** Node.js, Flask, PHP  
 **Databases:** MySQL, Firebase  
-**Languages:** Java, Python, C  
-**Other:** Git, Maven, Arduino, REST APIs, Groq AI
+**Languages:** Python, Java, C  
+**Tools & Extras:** Git, Maven, Arduino, REST APIs, Groq AI  
 
 ---
 
-## 📂 **Featured Projects**
-| Project | Description | Tech |
-|---------|-------------|------|
-| ⚡ Smart Energy Dashboard | Tracks energy, AI chatbot, bill calculator | HTML, CSS, JS, Flask, MySQL, Groq |
-| 🚮 Smart Waste Management | Garbage tracking + route optimization | JS, Firebase/MySQL, Arduino |
-| 🚗 Car Rental System | Online booking system | HTML, CSS, JS, Maven |
-| 🩺 Doctor Appointment System | Slot booking & doctor management | SQL, PHP |
-| 📊 Student Performance Analytics | Data visualization | React, Tailwind, Node.js |
+## 🚀 Featured Projects
+
+| Project | What It Does | Tech |
+|---------|--------------|------|
+| ⚡ Smart Energy Dashboard | AI chatbot, bill calculator, dynamic analytics | JS, Flask, MySQL, Groq |
+| 🚮 Smart Waste Management | Waste tracking + route optimization (IoT) | JS, MySQL/Firebase, Arduino |
+| 🚗 Car Rental System | Booking & rental management | HTML, CSS, JS, Maven |
+| 🩺 Doctor Appointment System | Slot booking + doctors management | SQL, PHP |
+| 📊 Student Performance Analytics | Interactive dashboard | React, Tailwind, Node.js |
 
 ---
 
-## 📈 **GitHub Stats**
+## 📊 GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman23-cod&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman23-cmd&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aman23cmd&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aman23-cmd&theme=tokyonight)
 
 </div>
 
-
 ---
 
-## 🔗 **Connect with Me**
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:amankau2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:amankau2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-## ✨ **Quote I Live By**
-> *“Dream big, work hard, stay focused, and surround yourself with good people.”*
+## ✨ Quote I Live By
+
+> *“Dream big, stay consistent, and let your work speak louder than your words.”*
 
 ---
 
-## ⭐ Support
-If you like my work, please **star ⭐ my repositories** — it motivates me to build more awesome things!
+## 🌟 Support My Work
+
+If you like my work, please **star ⭐ my repositories** —  
+it keeps me motivated to build even more amazing projects!
+
