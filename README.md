@@ -35,19 +35,16 @@
 
 ---
 
-## 📊 **GitHub Statistics**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only" width="48%">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-stats/master/generated/languages.svg#gh-dark-mode-only" width="48%">
-</p>
+## 📈 **GitHub Stats**
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman23-cod&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&theme=radical)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=aman23cmd&theme=radical)
 
-### 🐍 **Contribution Snake**
-<p align="center">
-  <img src="https://github.com/aman23-cmd/aman23-cmd/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
+
 
 ---
 
