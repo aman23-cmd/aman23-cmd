@@ -39,17 +39,16 @@ Currently in **3rd Year B.Tech CSE (AI)** at **Galgotias University**, exploring
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aman23-cmd&show_icons=true&theme=tokyonight" height="180" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&theme=tokyonight" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aman23-cmd&theme=tokyonight" height="180" />
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aman23-cmd&show_icons=true&theme=tokyonight" height="180" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&theme=tokyonight" height="180" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aman23-cmd&theme=tokyonight" height="180" />
 </div>
+
 
 
 ---
