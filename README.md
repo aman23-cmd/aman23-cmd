@@ -48,27 +48,18 @@
 # 📊 GitHub Stats
 
 <div align="center">
-
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aman23-cmd&show_icons=true&theme=tokyonight" height="180"/>
-
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aman23-cmd&layout=compact&theme=tokyonight" height="180"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aman23-cmd&theme=tokyonight" height="180"/>
-
 </div>
-
 ---
-
 # 🐍 Contribution Snake (Animated)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aman23-cmd/aman23-cmd/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
-
 # 🌍 Visitor Count
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aman23-cmd&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
