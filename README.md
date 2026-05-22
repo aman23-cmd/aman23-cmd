@@ -5,14 +5,14 @@
 
 <!-- Animated Typing -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aman+Kaushal+👋;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+💻;Turning+ideas+into+reality+✨;3rd+Year+B.Tech+CSE+(AI)+Student+🎓" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Aman+Kaushal+👋;Full-Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+💻;550%2B+LeetCode+Problems+Solved+🔥;Turning+ideas+into+reality+✨" />
 </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aman-kaushal-b833642a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:amankau2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://aman23-cmd.github.io/Aman_Protfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://leetcode.com/aman23-cmd/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/aman_k9571/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <img src="https://komarev.com/ghpvc/?username=aman23-cmd&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </div>
 
@@ -25,21 +25,51 @@
 <img align="right" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="260" style="border-radius: 10px;"/>
 
 ```yaml
-Name     : Aman Kaushal
-Located  : India 🇮🇳
-Education: B.Tech CSE (AI) — 3rd Year
-Current  : Full-Stack + AI Engineer in Making
+Name      : Aman Kaushal
+Located   : Greater Noida, India 🇮🇳
+Education : B.Tech CSE (AI) — Galgotias University
+CGPA      : 8.32 ⭐
+Role      : Junior Developer Intern @ YatriYum
+LeetCode  : 550+ Problems Solved 🔥
 ```
 
-- 🎓 Pursuing **B.Tech in Computer Science (AI)**
-- 🔭 Currently building **Smart Energy & Waste Management systems**
+- 🎓 Pursuing **B.Tech in Computer Science (AI)** at Galgotias University
+- 💼 Currently working as **Junior Developer Intern @ YatriYum**
+- 🔭 Building **IntelliGrid** — Smart Energy Dashboard with AI
 - 🌱 Learning **React, Next.js, Node.js, and Data Visualization**
 - 🤝 Open-Source Contributor at **GSSoC Extended**
-- ⚡ Fun Fact: I debug with `console.log` and I'm not ashamed 😄
+- 🏆 **SIH 2025 Pre-Qualifier** | **XLR8 AMPLIFIER'25** finalist
 - 🎯 Goal: Land a role as a **Full-Stack + AI Engineer**
-- 💬 Ask me about **Web Dev, AI/ML, or Open Source**
+- ⚡ Fun Fact: I debug with `console.log` and I'm not ashamed 😄
 
 <br clear="right"/>
+
+---
+
+## 💼 Work Experience
+
+<details open>
+<summary><b>🟢 Junior Developer Intern — YatriYum (Mar 2026 – Present)</b></summary>
+<br/>
+
+- ⚛️ Engineered a responsive frontend landing page using **React**, improving UX across devices
+- 🎨 Optimized UI/UX components, reducing page load time and improving navigation efficiency
+- ☁️ Integrated **Cloudinary** for image upload and storage, streamlining media handling
+- 🔧 Built backend functionalities to efficiently manage data and media processing
+
+</details>
+
+<details>
+<summary><b>🔵 Web Developer Intern — Codevirus Security Pvt. Ltd. (Jan 2026 – Mar 2026)</b></summary>
+<br/>
+
+- 📚 Developed a full **Learning Management System (LMS)** using PHP, MySQL, HTML, CSS, JS
+- 🎯 Designed and improved UI/UX for smooth navigation and better user experience
+- 🏫 Built modules for live classes, notes upload, and student access management
+- 📊 Contributed to CRM with employee login and attendance tracking
+- 🏅 Awarded a **Letter of Recommendation** for outstanding performance
+
+</details>
 
 ---
 
@@ -69,6 +99,7 @@ Current  : Full-Stack + AI Engineer in Making
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,22 +108,27 @@ Current  : Full-Stack + AI Engineer in Making
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
 | 🏷️ Project | 📝 Description | 🛠 Tech Stack | 🔗 Link |
 |:-----------|:--------------|:-------------|:--------|
-| ⚡ **Smart Energy Dashboard** | AI chatbot + real-time analytics + bill calculator | JS, Flask, MySQL, Groq AI | [View](#) |
-| 🚮 **Smart Waste Management** | Garbage tracking + IoT route optimization | JS, Firebase, MySQL, Arduino | [View](#) |
-| 📊 **Student Analytics Dashboard** | Interactive data visualization platform | React, Tailwind, Node.js | [View](#) |
-| 🚗 **Car Rental System** | Full online booking + admin panel | HTML, CSS, JS, Maven | [View](#) |
-| 🩺 **Doctor Appointment System** | Doctor/patient management portal | SQL, PHP | [View](#) |
+| ⚡ **IntelliGrid** | Real-time smart energy dashboard with AI chatbot, live charts, bill calculator & smart tips | TypeScript, Flask, MySQL, Groq AI | [Repo](https://github.com/aman23-cmd/IntelliGrid) |
+| 🤖 **AI Resume Screening System** | Upload & analyze PDF/DOCX resumes using NLP; auto-classify and shortlist candidates by job role | Python, Flask, MySQL, NLP | [Repo](https://github.com/aman23-cmd/ai-resume-screening) |
+| 🚗 **Car Rental Booking System** | Full-featured online car rental platform with browsing, booking & management | HTML, CSS, JavaScript, Java, Maven | [Repo](https://github.com/aman23-cmd/Car-Rental-booking-system) |
+| 📊 **Student Performance Analytics** | Data visualization dashboard to track and analyze student performance trends | Python | [Repo](https://github.com/aman23-cmd/Student_Performance_Analytics) |
+| 🔋 **Smart Energy Saving Device** | IoT-based energy monitoring device with real-time dashboard | HTML, Arduino, Flask | [Repo](https://github.com/aman23-cmd/Smart_Energy_Saving_Device) |
+| 🚮 **Smart Waste Management** | Garbage tracking + IoT route optimization system | JS, Firebase, MySQL, Arduino | [View](#) |
+| 🩺 **Doctor Appointment System** | Doctor/patient management portal with scheduling | SQL, PHP | [View](#) |
+| 🐍 **Coders of Delhi – JSON Viewer** | Python CLI tool to parse & visualize complex JSON data in human-readable format | Python, JSON, CLI | [Repo](https://github.com/aman23-cmd/Coders-of-Delhi) |
 
 </div>
 
@@ -110,13 +146,17 @@ Current  : Full-Stack + AI Engineer in Making
 
 ---
 
-## 🏆 LeetCode Stats
+## 🔥 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/aman23-cmd?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/aman_k9571?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
 
-> 💡 **Update your LeetCode username in the URL above** — replace `aman23-cmd` with your actual LeetCode handle if different.
+<div align="center">
+  <a href="https://leetcode.com/u/aman_k9571/">
+    <img src="https://img.shields.io/badge/LeetCode-550%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</div>
 
 ---
 
@@ -144,12 +184,20 @@ Current  : Full-Stack + AI Engineer in Making
 
 ---
 
-## 🌟 Open Source & Achievements
+## 🏆 Achievements & Certifications
 
-- 🏆 **GSSoC Extended** — Active Open Source Contributor
-- 💻 Contributed to multiple community projects
-- 🔧 Building real-world solutions with AI + IoT integration
-- 📚 Continuously upskilling in cutting-edge tech
+<div align="center">
+
+| 🥇 Achievement | 📋 Details |
+|:--------------|:----------|
+| 🚀 **SIH 2025** | Smart India Hackathon Pre-Qualifier |
+| ⚡ **XLR8 AMPLIFIER'25** | Selected in national-level hackathon |
+| 🔥 **LeetCode** | 550+ problems solved — [aman_k9571](https://leetcode.com/u/aman_k9571/) |
+| 🤝 **GSSoC Extended** | Active Open Source Contributor |
+| 🏅 **HackerRank** | Python (Advanced & Expert), Java (Basics) |
+| 📜 **Letter of Recommendation** | Awarded by Codevirus Security Pvt. Ltd. |
+
+</div>
 
 ---
 
@@ -174,10 +222,10 @@ Current  : Full-Stack + AI Engineer in Making
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aman-kaushal-b833642a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:amankau2000@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://aman23-cmd.github.io/Aman_Protfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://leetcode.com/aman23-cmd/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/aman_k9571/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </div>
 
 <br/>
